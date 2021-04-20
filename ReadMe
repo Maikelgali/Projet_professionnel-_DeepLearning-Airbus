@@ -1,2 +1,3 @@
 Le but de ce projet est de construire unmodèle convolutif (CNN) qui permette d'atteindre une performance en classification des images qui contiennent une éolienne de plus de 99% en moins de 10 epochs.
 Une base de données privée que je ne peux partager est proposée par Airbus qui contient 400 000 images satellises.
+Le projet a été réalisé sur Kaggle.
